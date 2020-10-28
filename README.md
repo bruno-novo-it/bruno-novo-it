@@ -7,3 +7,9 @@
                        :camera:[Instagram](https://www.instagram.com/cubomaster_)
 
 Feel free to reach me about any project that i can help you with. :fire: :smile:
+
+- Here are some of my stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-novo-it&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=bruno-novo-it&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
