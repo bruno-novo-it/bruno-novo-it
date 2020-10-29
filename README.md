@@ -1,5 +1,7 @@
 # Hi and welcome :+1:
 
+My mane is Bruno, i like to run, cycle and play soccer. I love learning new things.
+
 - 🔭 I’m currently working with Cloud and DevOps culture
 - 🌱 I’m currently learning a lot of thing in software development world
 - 📫 How to reach me:
