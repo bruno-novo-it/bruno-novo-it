@@ -4,9 +4,7 @@ My name is Bruno, i like to run, cycle and play soccer. I love learning new thin
 
 - 🔭 I’m currently working with Cloud and DevOps culture
 - 🌱 I’m currently learning a lot of things in software development world
-- 📫 How to reach me:
-  :briefcase:[Linkedin](https://www.linkedin.com/in/bruno-novo-29531364/)
-                       :camera:[Instagram](https://www.instagram.com/brunocnovo)
+- 📫 How to reach me: [linktr.ee/brunocnovo](https://linktr.ee/brunocnovo)
 
 Feel free to reach me about any project that i can help you with. :fire: :smile:
 
